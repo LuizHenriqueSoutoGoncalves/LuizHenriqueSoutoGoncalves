@@ -13,7 +13,7 @@
 
 <div align="center">
   <!-- Novo GIF de Gato Preto 2D -->
-  <img src="https://media.giphy.com/media/3o7btWaaokFfUt5yRO/giphy.gif" alt="Cat GIF" width="500"/>
+ <img src="https://media.giphy.com/media/3o7btWaaokFfUt5yRO/giphy.gif" alt="Cat GIF" width="500"/>  
 </div>
 
 <hr>
