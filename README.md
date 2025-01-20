@@ -12,8 +12,8 @@
 <hr>
 
 <div align="center">
-  <!-- Gato Preto 2D Animado -->
-  <img src="https://media.giphy.com/media/3o6Zt5rTjMYijvPiUo/giphy.gif" alt="Cat GIF" width="500"/>
+  <!-- Novo GIF de Gato Preto 2D -->
+  <img src="https://media.giphy.com/media/3o7btWaaokFfUt5yRO/giphy.gif" alt="Cat GIF" width="500"/>
 </div>
 
 <hr>
