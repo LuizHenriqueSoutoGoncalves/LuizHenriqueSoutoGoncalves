@@ -11,7 +11,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Who am I?</h2>
+<h2 align="center">👨‍💻 WhoamI?</h2>
 <p align="center">
   <samp>
     I’m a **Front-end Developer** at an intermediate level, with a strong focus on **React**, **HTML**, and **CSS**. I am currently learning and improving my skills to build modern, responsive, and user-friendly web applications. <br>
