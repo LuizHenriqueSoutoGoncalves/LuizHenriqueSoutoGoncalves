@@ -12,7 +12,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26FPOXyTtHgMyzKik/giphy.gif" alt="Welcome GIF" width="500"/>
+ <img src="https://media.giphy.com/media/3o6Zt5rTjMYijvPiUo/giphy.gif" alt="Cat GIF" width="500"/>
 </div>
 
 <hr>
