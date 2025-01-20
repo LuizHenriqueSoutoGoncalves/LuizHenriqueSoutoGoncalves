@@ -9,9 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=LuizHenriqueSoutoGoncalves" alt="Profile views"/>
 </div>
 
-<hr> 
-
-
 <hr>
 
 <h2 align="center">👨‍💻 Who am I?</h2>
