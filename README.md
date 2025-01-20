@@ -13,7 +13,8 @@
 
 <div align="center">
   <!-- Novo GIF de Gato Preto 2D -->
- <img src="https://tenor.com/Z5b0.gif" alt="Cat GIF" width="500"/>  
+ <img src="https://tenor.com/Z5b0.gif](https://tenor.com/Z5b0.gif" alt="Cat GIF" width="500"/>  
+ <img
 </div>
 
 <hr>
