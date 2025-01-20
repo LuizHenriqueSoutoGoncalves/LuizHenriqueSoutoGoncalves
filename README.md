@@ -48,25 +48,6 @@
 <hr>
 
 <h2 align="center">💻 Check Out My Repos ⬇️</h2>
-
-<p align="center">
-  <a href="https://github.com/LuizHenriqueSoutoGoncalves?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<hr>
-
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueSoutoGoncalves&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=27" alt="GitHub Stats" width="400"/>
-</p>
-
-<h2 align="center">🔥 GitHub Streak</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizHenriqueSoutoGoncalves&theme=radical" alt="GitHub Streak" width="400"/>
-</p>
-
 <hr>
 
 <div align="center">
