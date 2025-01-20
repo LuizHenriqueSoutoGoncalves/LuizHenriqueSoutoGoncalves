@@ -13,7 +13,7 @@
 
 <div align="center">
   <!-- Novo GIF de Gato Preto 2D -->
- <img src="<div class="tenor-gif-embed" data-postid="12373950" data-share-method="host" data-aspect-ratio="2.21239" data-width="100%"><a href="https://tenor.com/view/adorable-cat-playing-chat-noir-black-cat-gif-12373950">Adorable Cat GIF</a>from <a href="https://tenor.com/search/adorable-gifs">Adorable GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Cat GIF" width="500"/>  
+ <img src="https://tenor.com/Z5b0.gif" <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Cat GIF" width="500"/>  
 </div>
 
 <hr>
