@@ -1,36 +1,42 @@
-<!--
-**Luyiz/Luiz Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
+# Hi, I'm Luiz 👋
 
-<h1 align="center"> 👋 </h1>
-<div align="center">
-</div>
-<p align="center"> (Open for Hiring)</p>
+I'm a **Software & DevOps Engineer** passionate about building scalable, reliable, and efficient systems. I specialize in **cloud infrastructure**, **automation**, and **CI/CD**. I continuously strive to enhance software delivery and optimize system performance.
 
-<h2 align="center"> 👨‍💻 Who am i</h2>
-<p align="center">
-  <samp>A great programming enthusiast always looking to learn new functions, using everything he has learned to learn even more! respect is my dilemma and always looking for great achievements.
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=LuizHenriqueSoutoGoncalves" alt="https://github.com/LuizHenriqueSoutoGoncalves" />
-</p>
+## 🔧 Technologies & Tools
 
-<hr>
+![Java](https://img.shields.io/badge/-Java-black?logo=java)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes)
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">ReactJs, Python, html, typescrypt, node.js</p>
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitLab CI, Terraform
+- **Monitoring**: Prometheus, Grafana, ELK Stack
 
-<hr>
+## 🚀 Experience
 
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/luiz-henrique-4a1692318/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:luizhenrique1212@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+- **Cloud Infrastructure**: Deploying scalable applications in the cloud (AWS, Azure).
+- **CI/CD Pipelines**: Automating testing, deployment, and delivery for faster releases.
+- **Automation**: Using **Terraform**, **Ansible**, and **Docker** to automate infrastructure provisioning and configuration.
 
-<hr>
+## 🌱 Current Focus
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+- Exploring **Kubernetes** for container orchestration.
+- Diving into **cloud-native architecture** to optimize system performance.
+
+## 📫 Let's Connect
+
+Feel free to reach out for collaborations, questions, or simply to discuss software and DevOps practices!
+
+- LinkedIn: [linkedin.com/in/luiz](https://www.linkedin.com/in/luiz)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+## 📈 GitHub Stats
+
+![Luiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luiz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=27)
+
+## 🏆 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luiz&theme=radical)
